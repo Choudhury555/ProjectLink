@@ -1,23 +1,20 @@
-import logo from './logo.svg';
+import React from "react"
+import data from "./data"
+import Container from "./Container"
 import './App.css';
 
 function App() {
+
+  const resArray=data.map(item => {
+    return <Container item={item}/>
+  })
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div id="portfolio">
+      <h3 className="headline">Click On Every Project To Experience It</h3>
+      <div className="work-list">
+        {resArray}
+      </div>
     </div>
   );
 }
