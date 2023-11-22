@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ProjectLink/static/css/main.f417d5ca.css",
-    "main.js": "/ProjectLink/static/js/main.89dc4097.js",
+    "main.js": "/ProjectLink/static/js/main.f31c2a60.js",
     "static/js/787.eaa3c320.chunk.js": "/ProjectLink/static/js/787.eaa3c320.chunk.js",
     "static/media/ShopImage.PNG": "/ProjectLink/static/media/ShopImage.c96953b497c8f50250c3.PNG",
     "static/media/Airbnb.PNG": "/ProjectLink/static/media/Airbnb.09bddaa8267e92491a26.PNG",
@@ -9,6 +9,7 @@
     "static/media/Meme-Generator.PNG": "/ProjectLink/static/media/Meme-Generator.6de0eb228f2aab023158.PNG",
     "static/media/Travel.PNG": "/ProjectLink/static/media/Travel.dbc8589226950386a3cc.PNG",
     "static/media/MovieSearch.PNG": "/ProjectLink/static/media/MovieSearch.a2a869cd1dd577eca7c0.PNG",
+    "static/media/Ecommerce.PNG": "/ProjectLink/static/media/Ecommerce.d16871e75fb4ac05886f.PNG",
     "static/media/Quizapp.PNG": "/ProjectLink/static/media/Quizapp.23f003b101baa73e9d9e.PNG",
     "static/media/Tenzies.PNG": "/ProjectLink/static/media/Tenzies.d8c291e21910bc9bab08.PNG",
     "static/media/React-Facts.PNG": "/ProjectLink/static/media/React-Facts.1c6ed6220247e4da1668.PNG",
@@ -19,11 +20,11 @@
     "static/media/logo.svg": "/ProjectLink/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/ProjectLink/index.html",
     "main.f417d5ca.css.map": "/ProjectLink/static/css/main.f417d5ca.css.map",
-    "main.89dc4097.js.map": "/ProjectLink/static/js/main.89dc4097.js.map",
+    "main.f31c2a60.js.map": "/ProjectLink/static/js/main.f31c2a60.js.map",
     "787.eaa3c320.chunk.js.map": "/ProjectLink/static/js/787.eaa3c320.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f417d5ca.css",
-    "static/js/main.89dc4097.js"
+    "static/js/main.f31c2a60.js"
   ]
 }
